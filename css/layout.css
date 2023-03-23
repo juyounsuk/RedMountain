@@ -49,7 +49,10 @@ header nav ul li{
     color:#777;
 }
 header nav ul li:first-child{
-    color:black;    
+    color:#DE5450;
+}
+header nav ul li a:hover{
+    color: #999;
 }
 header .menu{
     float: right;    
@@ -79,6 +82,9 @@ header .menu a:last-child{
 .list{
     float: right;
     color:#999;
+}
+.list a:hover{
+    color: #333;
 }
 .list a:nth-child(2){
     color:#333;
