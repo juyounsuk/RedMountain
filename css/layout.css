@@ -111,20 +111,22 @@ header .menu a:last-child{
 /*********************** section1 **********************/
 .section1{
     height: 800px;
-    background-image: url(../img/main.jpg);
+    background-image: url(../img/company2.jpg);
     background-repeat: no-repeat; 
     min-width: 1240px;
     background-position: top center; 
-    color: #fff;
+    color: #DE5450;
     margin-top: 200px;
+    text-align: left;
 }
 .section1 h3{
     padding-top: 250px;
-    font-size: 2.5rem;
+    font-size: 4em;
+    opacity: 0.8;
 }
 .section1 p{
     padding: 50px 0;
-    font-size: 1.4rem;
+    font-size: 2em;
     font-weight: 300;
 }
 
