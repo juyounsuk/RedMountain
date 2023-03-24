@@ -124,7 +124,7 @@ header .menu a:last-child{
     background-repeat: no-repeat; 
     min-width: 1240px;
     background-position: top center; 
-    color: #DE5450;
+    color: #ffffff;
     margin-top: 200px;
     text-align: left;
 }
@@ -137,6 +137,8 @@ header .menu a:last-child{
     padding: 50px 0;
     font-size: 2em;
     font-weight: 300;
+    color: #ffffff;
+    opacity: 0.8;
 }
 
 /*********************** section2 **********************/
