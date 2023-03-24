@@ -97,6 +97,8 @@ header .menu a:last-child{
 .title{
     height: 150px;
     padding-top: 150px;
+    /* cursor: url(../img//favicon.cur),pointer; */
+    /* 커서 바꾸는 방법 */
 }
 .title h2{
     font-size: 2.5rem;
@@ -104,11 +106,12 @@ header .menu a:last-child{
     padding-left: 60px;
     padding-top: 60px;
     margin-bottom: 60px;
+    color:#333;
 }
 .title h2::before{
-    content:url(../img/logo_B.png);
+    content:url(../img/logo1.png);
     position: relative;
-    top: 10px;
+    top: 5px;
     left:-5px;
 }
 
